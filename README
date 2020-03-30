@@ -1,0 +1,8 @@
+For the group project, the exact idea of what the project does and how it does it is up to the group to decide. But some things in common from last year's projects include:
+
+1) querying the user for information to start the process
+2) retrieving data from some electronic source
+3) preprocessing the data if needed before moving into analyses with one or more pieces of software
+4) presenting final results to the end user in the form of graphs, tables, results, compressed archives, etc 
+5) cleaning up after itself like rm'ing intermediate files
+
