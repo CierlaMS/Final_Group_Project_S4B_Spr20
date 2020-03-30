@@ -1,0 +1,9 @@
+Data will be retrieved from UCSC Genome Browser 
+https://genome.ucsc.edu/goldenPath/help/api.html#Intro
+
+Consensus sequences will be extracted from data using
+____ software
+
+Tables will be made to diplay chromosomal locations, genes of 
+consensus sequences between Humans, chimps, orangutangs, gorillas
+
